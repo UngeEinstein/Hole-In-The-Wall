@@ -1,0 +1,14 @@
+stmpy
+paho-mqtt
+tensorflow
+tensorflow-gpu
+numpy
+matplotlib
+opencv-python
+keyboard
+ipywidgets
+ipython
+pillow
+pipwin
+PyAudio==0.2.11
+multiprocess
